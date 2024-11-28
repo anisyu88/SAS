@@ -1,0 +1,4 @@
+.nav-link:hover {
+    background-color: #f8d7da; /* Light red for hover */
+    color: #ffffff; /* White text on hover */
+}
